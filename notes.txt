@@ -1,0 +1,2 @@
+ npm install ts-node tslint typescript typescript-eslint-parser @types/node --save-dev
+
